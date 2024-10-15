@@ -47,7 +47,7 @@ export default function Portfolio() {
         <section className="mt-32 text-center">
           <Image src="/placeholder.svg" alt="Handshake" width={80} height={80} className="mx-auto mb-8" />
           <h2 className="text-4xl font-bold mb-6">
-            Let's bring your ideas to life
+            Let&apos;s bring your ideas to life
           </h2>
           <p className="text-xl text-gray-600 mb-10">Tell us about your next project</p>
           <div className="flex justify-center space-x-4">
