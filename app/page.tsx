@@ -51,7 +51,7 @@ export default function Portfolio() {
           </h2>
           <p className="text-xl text-gray-600 mb-10">Tell us about your next project</p>
           <div className="flex justify-center space-x-4">
-            Reach us at <a href="mailto:team@colon3.io" >team@colon3.io</a>
+            Reach us at&nbsp;<a href="mailto:hi@colon3.io">hi@colon3.io</a>
           </div>
         </section>
       </main>
